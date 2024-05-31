@@ -26,3 +26,22 @@ body {
   display:flex;
   flex-flow:column nowrap;
 }
+
+.container {
+  display:flex;
+  flex-flow: column nowrap;
+  align-items:center;
+  justify-content:center;
+  width:100vw;
+  height:100vh;
+  display:flex;
+}
+
+#title {
+  padding-bottom:20px;
+  text-align:center;
+}
+
+#wheelimg {
+  width:15vw;
+}
